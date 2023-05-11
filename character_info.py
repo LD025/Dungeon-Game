@@ -13,7 +13,7 @@ class Character:
         self.mp_potions = 3
 
         self.name = name
-        self.floor = 49
+        self.floor = 1
 
         self.level = 1
         self.experience = 0
